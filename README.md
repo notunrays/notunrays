@@ -1,1 +1,1 @@
-compte pour l’université Laval de [unrays](https://github.com/unrays/) 
+compte pour les travaux d’université de [unrays](https://github.com/unrays/) 
